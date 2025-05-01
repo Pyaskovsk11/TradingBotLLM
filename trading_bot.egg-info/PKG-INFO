@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: trading_bot
+Version: 0.1
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: sqlalchemy
+Requires-Dist: alembic
+Requires-Dist: psycopg2-binary
+Requires-Dist: python-dotenv
+Requires-Dist: pydantic
+Requires-Dist: pydantic-settings
+Dynamic: requires-dist
